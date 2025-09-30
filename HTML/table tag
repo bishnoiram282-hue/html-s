@@ -1,0 +1,72 @@
+<!-- <html lang="en">
+    <head>
+        <!doctype html>
+        <head>
+            <meta charset="utf=8"
+            <meta name="viewport" content="width-device-width, initial-scale=1.o"
+            <title> my favoruite websites </title>
+            <title>Flipkart web site.</title>
+            <subtitle>Amazon web site.</subtitle>
+            <subtitle>Snapdeal web site.</subtitle>
+            <subtitle>eBay web site.</subtitle>
+            <subtitle>AliExpress web site.</subtitle>
+            </head>
+            <body></body> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Favourite Websites</title>
+</head>
+<body>
+    <h1>My Favourite Websites</h1>
+    <ul>
+        <li>Flipkart</li>
+        <li>Amazon</li>
+        <li>Snapdeal</li>
+        <li>eBay</li>
+        <li>AliExpress</li>
+    </ul>
+</body>
+</html>
+
+
+
+
+
+
+            
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</table>
+</BODY>

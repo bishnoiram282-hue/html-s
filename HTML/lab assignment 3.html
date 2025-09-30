@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lab Assignment 3</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f9fbff; color: #222; }
+    h1 { text-align: center; color: #222; }
+    hr { margin: 20px 0; }
+    h2 { font-size: 18px; color: #333; margin-top: 24px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 12px; }
+    th, td { border: 1px solid #555; padding: 8px; text-align: center; }
+    th { background: #e0e7ff; }
+    form { background: #fff; padding: 16px; border: 1px solid #ccc; border-radius: 8px; max-width: 400px; margin-top: 16px; }
+    label { display: block; margin-top: 10px; }
+    input, textarea, button { width: 100%; padding: 8px; margin-top: 4px; border: 1px solid #aaa; border-radius: 4px; }
+    button { background: #1e88e5; color: white; border: none; margin-top: 12px; cursor: pointer; }
+    button:hover { background: #1565c0; }
+    .blog-layout { border: 1px solid #ccc; margin-top: 20px; border-radius: 8px; overflow: hidden; }
+    header, nav, main, section, article, footer { padding: 12px; }
+    header { background: #e3f2fd; }
+    nav { background: #f1f1f1; }
+    footer { background: #e3f2fd; text-align: center; font-size: 14px; }
+    article { border-bottom: 1px solid #ddd; margin-bottom: 10px; padding-bottom: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Lab Assignment 3</h1>
+  <hr>
+
+  <h2>1. Complex Table</h2>
+  <p>in a class students following results are here <code>&lt;th&gt;</code> tags.</p>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Math</th>
+      <th>Science</th>
+      <th>English</th>
+    </tr>
+    <tr>
+      <td>Ravi</td>
+      <td>85</td>
+      <td>78</td>
+      <td>90</td>
+    </tr>
+    <tr>
+      <td>Priya</td>
+      <td>92</td>
+      <td>88</td>
+      <td>95</td>
+    </tr>
+    <tr>
+      <td>Amit</td>
+      <td>76</td>
+      <td>84</td>
+      <td>80</td>
+    </tr>
+  </table>
+
+  <h2>2. Registration Form (Extended)</h2>
+  <p>fill the registration form</p>
+  <form>
+    <label for="name">Full Name:</label>
+    <input type="text" id="name" name="name">
+
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email">
+
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password">
+
+    <label>Gender:</label>
+    <input type="radio" id="male" name="gender" value="male"> Male
+    <input type="radio" id="female" name="gender" value="female"> Female
+    <input type="radio" id="other" name="gender" value="other"> Other
+
+    <label for="bio">Bio:</label>
+    <textarea id="bio" name="bio" rows="4"></textarea>
+
+    <button type="submit">Register</button>
+  </form>
+
+  <h2>3. Semantic Blog Layout</h2>
+
+  <div class="blog-layout">cd
+    <header>
+      <h2>My Blog</h2>
+      <p>Welcome to my simple blog layout.</p>
+    </header>
+    <nav>
+      <a href="#">Home</a> | <a href="#">About</a> | <a href="#">Contact</a>
+    </nav>
+    <main>
+      <section>
+        <article>
+          <h3>Article 1</h3>
+          <p>This is the first blog article with some placeholder text.</p>
+        </article>
+        <article>
+          <h3>Article 2</h3>
+          <p>This is the second blog article with some placeholder text.</p>
+        </article>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2025 My Blog. All rights reserved.</p>
+    </footer>
+  </div>
+</body>
+</html>
+
+
+            

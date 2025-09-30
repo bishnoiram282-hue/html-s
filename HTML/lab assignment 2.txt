@@ -1,0 +1,24 @@
+<doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>image discription</title>    
+    </head>
+    <body>
+        <center><img src="https://www.reddit.com/r/KimetsuNoYaiba/comments/1j0wk02/poster_for_demon_slayer_kimetsu_no_yaiba_infinity/#lightbox"
+        alt="demon slayer infinity castle movie official poster" title="demon slayer infinity castle movie" height="360px" width="300px"</center>
+        <p>after watching the massive fire on demon slayer headquarters all the hashiras runnig through the headquaters. they watching muzan kibutsuji. they all attacing the muzan but they teleported to muzans infinity castle.
+            the movie is about the fight between demon slayers and muzans infinity castle. the movie is full of action and drama. the animation is also very good. the movie is a must watch for all anime lovers.
+        </p>
+   </body>
+    </html>
+    <center><img src="https://static0.cbrimages.com/wordpress/wp-content/uploads/2024/08/one-piece-time-watch.jpg?q=70&fit=crop&w=1232&h=693&dpr=1"</center>
+     alt="one piece time watch movie official poster" title="one piece time watch movie" height="360px" width="300px"</center>
+        <p>the movie is about the new adventure of luffy and his crew. the movie is full of action and drama. the animation is also very good. the movie is a must watch for all anime lovers.
+            A boy named **Luffy** sets out to become the **Pirate King** by finding the legendary treasure, *One Piece*.
+Along the way, he gathers a loyal crew and battles powerful enemies while chasing freedom and dreams.
+        </p>
+        <head>
+    </body>
+        </head>
